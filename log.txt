@@ -1,0 +1,15 @@
+Time = 34.982189655303955 : Best = {'size': 5, 'speed': 6} : Bad = {'size': 41, 'speed': 16}
+Time = 55.899622440338135 : Best = {'size': 12, 'speed': 6} : Bad = {'size': 5, 'speed': 6}
+Time = 114.16443848609924 : Best = {'size': 12, 'speed': 6} : Bad = {'size': 12, 'speed': 6}
+Time = 84.71792435646057 : Best = {'size': 17, 'speed': 6} : Bad = {'size': 11, 'speed': 13}
+Time = 29.956310033798218 : Best = {'size': 17, 'speed': 5} : Bad = {'size': 16, 'speed': 6}
+Time = 59.217079162597656 : Best = {'size': 20, 'speed': 3} : Bad = {'size': 17, 'speed': 5}
+Time = 53.848008155822754 : Best = {'size': 29, 'speed': 6} : Bad = {'size': 20, 'speed': 3}
+Time = 43.833840131759644 : Best = {'size': 24, 'speed': 6} : Bad = {'size': 29, 'speed': 6}
+Time = 24.39295721054077 : Best = {'size': 22, 'speed': 5} : Bad = {'size': 24, 'speed': 6}
+Time = 95.82037329673767 : Best = {'size': 18, 'speed': 6} : Bad = {'size': 22, 'speed': 5}
+Time = 31.025588750839233 : Best = {'size': 22, 'speed': 6} : Bad = {'size': 18, 'speed': 6}
+Time = 40.46978402137756 : Best = {'size': 20, 'speed': 6} : Bad = {'size': 22, 'speed': 6}
+Time = 68.12540125846863 : Best = {'size': 14, 'speed': 12} : Bad = {'size': 20, 'speed': 6}
+Time = 44.510558128356934 : Best = {'size': 25, 'speed': 6} : Bad = {'size': 14, 'speed': 12}
+Time = 54.14447546005249 : Best = {'size': 19, 'speed': 6} : Bad = {'size': 25, 'speed': 6}
